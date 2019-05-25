@@ -1,0 +1,12 @@
+sport: 
+  name: 运动法保持
+cosmetics:
+  name: 化妆品保养
+micro:
+  name: 微手术抗衰
+heavy:
+  name: 重手术矫正
+women:
+  name: 女性私密 
+men:
+  name: 男性专区
