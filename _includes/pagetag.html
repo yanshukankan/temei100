@@ -6,7 +6,9 @@
 <span><a href="{{ site.baseurl }}/c/{{ page.categories }}/">{{ infos[key].name }}</a></span>&nbsp;
 {% endif %}
 
+{% if page.tags[0] %}
 <span class="glyphicon glyphicon-tag symbol"></span>&nbsp;
+{% endif %}
 {% for tag in page.tags %}
 <span><a href="{{ site.baseurl }}/t/all/#{{ tag }}">{{ tag }}</a></span>&nbsp;
 {% endfor %}
