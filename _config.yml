@@ -1,7 +1,7 @@
 name: "「特美100」美容化妆减肥健身保养抗衰老百科知识"
 url:  "https://www.temei100.com"
-baseurl:  
-img:  /img
+baseurl: /beauty
+img:  /beauty/img
 logo: logo-112x112.png
 imgcdn: 
 Copyright: Copyright @2011-2019 All rights reserved.
