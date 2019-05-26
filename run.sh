@@ -6,4 +6,4 @@
 # Distributed under terms of the GPL license.
 #
 
-nohup bundle exec jekyll serve --port 3001 >&1 1 > /tmp/3001.log &
+bundle exec jekyll serve --port 3001 2>&1 
