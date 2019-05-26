@@ -7,7 +7,7 @@
 #
 
 #file="~/iCloud/推广/A1封面图/"$1
-file="x/"$1
+file="/Users/lijiao/x/"$1
 name=`basename $1 .png`
 name=`basename $name .jpg`
 name=`basename $name .jpeg`
