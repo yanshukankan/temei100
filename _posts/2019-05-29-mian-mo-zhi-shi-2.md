@@ -3,12 +3,12 @@ layout: default
 title: "面膜知识（二）：面膜的使用方法和常见误区"
 author: 特美100
 createdate: "2019-05-29T21:02:50+0800"
-changedate: "2019-05-29T23:36:08+0800"
+changedate: "2019-05-29T23:44:32+0800"
 categories: cosmetics
 tags: 面膜 护肤 美白 抗衰老 补水 祛斑
 cover: baby-1399332_640.jpg
 keywords: 面膜误区,面膜用法,面膜知识,补水,祛疤,面膜选购,面膜评测
-description:
+description:  每天敷面膜是会造成皮肤损伤的使用误区，不能频繁敷，清洁一周最多1次，敷之前必须清洁，敷完后促进精华吸收，清洁面膜、贴片面膜、医美面膜要合理
 ---
 
 ## 本篇目录
