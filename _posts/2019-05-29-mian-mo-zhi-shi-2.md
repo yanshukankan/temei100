@@ -3,7 +3,7 @@ layout: default
 title: "面膜知识（二）：面膜的使用方法和常见误区"
 author: 特美100
 createdate: "2019-05-29T21:02:50+0800"
-changedate: "2019-05-29T23:44:32+0800"
+changedate: "2019-06-02T01:25:29+0800"
 categories: cosmetics
 tags: 面膜 护肤 美白 抗衰老 补水 祛斑
 cover: baby-1399332_640.jpg
@@ -56,8 +56,12 @@ description:  每天敷面膜是会造成皮肤损伤的使用误区，不能频
 
 医美面膜不要滥用，医美面膜不是用于日常护理的，也不是用于治疗痘痘的，它用于护理医美手术后的皮肤，侧重轻柔温和，但使用过多，照样会使皮肤水分过度饱和而受损。
 
-## 参考
+## 补充阅读
 
-1. [面膜知识（一）：面膜的用途与选购技巧][1]
+1. [面膜知识（一）：面膜的用途与组成成分][1]
+2. [面膜知识（二）：面膜的使用方法和常见误区][2]
+3. [面膜知识（三）：面膜的分类方法和常见类别][3]
 
-[1]: https://www.temei100.com/beauty/cosmetics/2019/05/25/mian-mo-zhi-shi-1/#%E9%9D%A2%E8%86%9C%E7%9A%84%E7%94%A8%E9%80%94 "面膜知识（一）：面膜的用途与选购技巧"
+[1]: https://www.temei100.com/beauty/cosmetics/2019/05/25/mian-mo-zhi-shi-1/ "面膜知识（一）：面膜的用途与组成成分"
+[2]: https://www.temei100.com/beauty/cosmetics/2019/05/29/mian-mo-zhi-shi-2/ "面膜知识（二）：面膜的使用方法和常见误区"
+[3]: https://www.temei100.com//beauty/cosmetics/2019/06/01/mian-mo-zhi-shi-3/ "面膜知识（三）：面膜的分类方法和常见类别"

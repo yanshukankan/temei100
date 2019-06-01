@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "面膜知识（一）：面膜的用途与选购技巧"
+title: "面膜知识（一）：面膜的用途与组成成分"
 author: 特美100
 createdate: "2019-05-26T19:08:30+0800"
-changedate: "2019-05-29T22:10:20+0800"
+changedate: "2019-06-02T01:26:58+0800"
 categories: cosmetics
 tags: 面膜 护肤 美白 抗衰老 补水 祛斑
 cover: model-429733_640.jpg
@@ -61,12 +61,23 @@ description: 面膜要有水溶性和油溶性保湿成分的面膜，保湿效�
 
 虽然载体材质是面膜的主要卖点之一，但不同材质的实际效果相差不大，最主要的还是护肤精华成分，因此不需要在材质上过于纠结，选择适合自己、习惯使用的就好，或者交替使用不同材质的面膜。
 
+## 补充阅读
+
+1. [面膜知识（一）：面膜的用途与组成成分][1]
+2. [面膜知识（二）：面膜的使用方法和常见误区][2]
+3. [面膜知识（三）：面膜的分类方法和常见类别][3]
+
+[1]: https://www.temei100.com/beauty/cosmetics/2019/05/25/mian-mo-zhi-shi-1/ "面膜知识（一）：面膜的用途与组成成分"
+[2]: https://www.temei100.com/beauty/cosmetics/2019/05/29/mian-mo-zhi-shi-2/ "面膜知识（二）：面膜的使用方法和常见误区"
+[3]: https://www.temei100.com//beauty/cosmetics/2019/06/01/mian-mo-zhi-shi-3/ "面膜知识（三）：面膜的分类方法和常见类别"
+
 ## 参考
 
-1. [百度百科·面膜][1]
-2. [维基百科·面膜][2]
-3. [怎么判断一片面膜的好坏][3]
+1. [百度百科·面膜][11]
+2. [维基百科·面膜][22]
+3. [怎么判断一片面膜的好坏][33]
 
-[1]: https://baike.baidu.com/item/%E9%9D%A2%E8%86%9C/371233?fr=aladdin "百度百科·面膜"
-[2]: https://zh.wikipedia.org/wiki/%E9%9D%A2%E8%86%9C "维基百科·面膜"
-[3]: https://zhuanlan.zhihu.com/p/51306039 "怎么判断一片面膜的好坏"
+
+[11]: https://baike.baidu.com/item/%E9%9D%A2%E8%86%9C/371233?fr=aladdin "百度百科·面膜"
+[22]: https://zh.wikipedia.org/wiki/%E9%9D%A2%E8%86%9C "维基百科·面膜"
+[33]: https://zhuanlan.zhihu.com/p/51306039 "怎么判断一片面膜的好坏"
