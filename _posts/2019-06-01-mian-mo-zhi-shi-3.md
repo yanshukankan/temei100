@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "面膜知识（三）：面膜的分类方法和常见类别"
+title: "面膜知识（三）：面膜的分类方法和常见种类"
 author: 特美100
 createdate: "2019-06-01T23:28:10+0800"
-changedate: "2019-06-02T01:41:12+0800"
+changedate: "2019-06-02T10:10:43+0800"
 categories: cosmetics
 tags: 面膜 护肤 美白 抗衰老 补水 祛斑
 cover: bokeh-1722168_640.jpg
